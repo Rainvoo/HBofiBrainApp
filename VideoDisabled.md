@@ -10,7 +10,7 @@
 
 ~ 因为 iOS 10 的适配问题，单独做了扩展播放器。iOS 10 用户请打开「设置」-「使用扩展播放器」的开关，如没有这个开关，请卸载 app 后重新下载最新版本
 
-![](.pic/AddedVideoPlayer.jpg)
+![](http://pic1.ibraintv.com/HB-AddedVideoPlayer.jpg)
 
 ## 2. 播放器界面一直是加载中
 
