@@ -12,9 +12,11 @@
 
 ## 没有允许爱贝睿学堂 App 使用网络
 
-苹果手机 iOS 10 存在系统级 bug ，很多应用会被默认不允许联网，请根据以下提示，检查 爱贝睿学堂 App 是否可以联网：
+苹果手机 iOS 10 存在系统级 bug ，很多应用会被默认不允许联网，请根据下图提示，检查 **爱贝睿学堂 App** 是否可以联网：
 
-![2017030224745HB-AllowAppConnectNetwork.jpg](http://pic1.ibraintv.com/2017030224745HB-AllowAppConnectNetwork.jpg)
+（下图）
+
+![如何允许爱贝睿学堂 App 联网](http://pic1.ibraintv.com/2017030224745HB-AllowAppConnectNetwork.jpg)
 
 ## 用户名密码不正确
 
