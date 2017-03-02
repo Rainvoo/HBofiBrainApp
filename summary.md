@@ -11,6 +11,7 @@
   * [视频直播](VideoLive.md)
   * [卡片学习](CardStudy.md)
   * [视频缓存](VideoBuffer.md)
+  * [我的页面](PageMy.md)
 - [常见问题](FQAList.md)
   * [如何找到我购买的课程](WhereisMyCourse.md)  
   * [为什么无法登录](CanntLogin.md)
