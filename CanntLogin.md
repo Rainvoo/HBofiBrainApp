@@ -1,2 +1,24 @@
 # 为什么我无法登录 App
 
+**定位问题**
+
+- 是否联网
+- 是否允许爱贝睿学堂 App 使用 WiFi/蜂窝数据
+- 用户名密码是否正确
+
+## 没有联网
+
+请在 WiFi/4G 环境下使用 App
+
+## 没有允许爱贝睿学堂 App 使用网络
+
+苹果手机 iOS 10 存在系统级 bug ，很多应用会被默认不允许联网，请根据以下提示，检查 爱贝睿学堂 App 是否可以联网：
+
+![2017030224745HB-AllowAppConnectNetwork.jpg](http://pic1.ibraintv.com/2017030224745HB-AllowAppConnectNetwork.jpg)
+
+## 用户名密码不正确
+
+- 检查用户名是否正确
+- 检查密码是否正确，如忘记密码，可以通过 [**找回密码**](ForgotPassword.md) 功能找回密码
+
+
