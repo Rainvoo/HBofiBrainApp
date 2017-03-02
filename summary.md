@@ -2,14 +2,12 @@
 
 - [爱贝睿学堂 App 简介](README.md)
 - [如何下载](AppDownload.md)
-- 功能介绍
+- [功能介绍](FunctionsIntro.md)
   * [注册登录](Register.md)
   * [找回密码](ForgotPassword.md)
-  * [首页](AppHomepage.md)
-  * [卡包](CardPack.md)
+  * [卡包卡片系统](CardPackSystem.md)
   * [沙龙](Saloon.md)
-  * [视频直播](VideoLive.md)
-  * [卡片学习](CardStudy.md)
+  * [沙龙视频直播](VideoLive.md)
   * [视频缓存](VideoBuffer.md)
   * [我的页面](PageMy.md)
 - [常见问题](FQAList.md)
