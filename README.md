@@ -16,3 +16,29 @@ App 包括几大功能
 使用微信扫描下图二维码，即可下载最新版本的「爱贝睿学堂 App」
 
 ![爱贝睿学堂 app 下载二维码](http://pic1.ibraintv.com/HB-QR-Download.png)
+
+## 目录
+
+- [如何下载](AppDownload.md)
+- [App 客服导则](CustomerService.md)
+- [功能介绍](FunctionsIntro.md)
+  * [注册登录](Register.md)
+  * [找回密码](ForgotPassword.md)
+  * [卡包卡片学习系统](CardPackSystem.md)
+  * [沙龙](Saloon.md)
+  * [沙龙视频直播](VideoLive.md)
+  * [视频缓存](VideoBuffer.md)
+  * [我的页面](PageMy.md)
+- [常见问题](FQAList.md)
+  * [如何找到我购买的课程](WhereisMyCourse.md)  
+  * [为什么无法登录](CanntLogin.md)
+  * [为什么看不了视频/不能正常播放](VideoDisabled.md)
+  * [为什么视频音量太小/没有声音](VideoVoiceDisabled.md)
+  * [支付相关问题](PayQuestions.md)
+  * [其他问题](OtherQuestions.md)
+
+
+## CHANGELOG
+
+170303 润悟创建
+
