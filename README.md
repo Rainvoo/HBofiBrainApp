@@ -15,4 +15,4 @@ App 包括几大功能
 
 使用微信扫描下图二维码，即可下载最新版本的「爱贝睿学堂 App」
 
-![爱贝睿学堂 app 下载二维码](https://cloud.githubusercontent.com/assets/4544011/23444148/2538a480-fe6e-11e6-816a-e689804e9c7b.png)
+![爱贝睿学堂 app 下载二维码](http://pic1.ibraintv.com/HB-QR-Download.png)
