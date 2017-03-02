@@ -1,6 +1,8 @@
 # 注册登录
 
-![注册登录界面](http://pic1.ibraintv.com/2017030255592HB-AppLogin.jpg)
-
 - 下载 App 后，点击 ① 注册，可以进入注册页面
 - 如忘记密码，可以点击 ② 忘记密码，输入自己的手机号，验证后修改密码
+
+![注册登录界面](http://pic1.ibraintv.com/2017030255592HB-AppLogin.jpg)
+
+
