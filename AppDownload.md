@@ -18,8 +18,10 @@ http://a.app.qq.com/o/simple.jsp?pkgname=com.ibrainbaby.ibrainclub
 
 在 iPhone 的 App store 中，搜索「爱贝睿学堂」下载
 
-[插入图片]
+![2017030243669HB-DownloadfromAppstore.jpg](http://pic1.ibraintv.com/2017030243669HB-DownloadfromAppstore.jpg)
 
 ## 5. 应用宝下载
 
 Android 手机，下载应用宝后，在应用宝内搜索「爱贝睿学堂」下载
+
+
