@@ -20,7 +20,7 @@
 ## 目录
 
 - [如何下载](AppDownload.md)
-- [App 客服导则](CustomerService.md)
+- [客服工作建议准则](CustomerService.md)
 - [功能介绍](FunctionsIntro.md)
   * [注册登录](Register.md)
   * [找回密码](ForgotPassword.md)
