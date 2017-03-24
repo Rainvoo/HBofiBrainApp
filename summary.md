@@ -18,5 +18,6 @@
   * [为什么视频音量太小/没有声音](VideoVoiceDisabled.md)
   * [支付相关问题](PayQuestions.md)
   * [其他问题](OtherQuestions.md)
+- [升级通知](UpdateNotification.md)
 
 
